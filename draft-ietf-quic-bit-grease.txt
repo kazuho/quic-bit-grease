@@ -73,7 +73,6 @@ Table of Contents
    6.  References
      6.1.  Normative References
      6.2.  Informative References
-   Acknowledgments
    Author's Address
 
 1.  Introduction
@@ -251,10 +250,6 @@ Table of Contents
               draft-iab-use-it-or-lose-it-04, 12 October 2021,
               <https://datatracker.ietf.org/doc/html/draft-iab-use-it-
               or-lose-it-04>.
-
-Acknowledgments
-
-   TODO
 
 Author's Address
 
