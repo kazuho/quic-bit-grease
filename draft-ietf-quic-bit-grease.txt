@@ -4,8 +4,8 @@
 
 quic                                                          M. Thomson
 Internet-Draft                                                   Mozilla
-Intended status: Standards Track                           28 April 2021
-Expires: 30 October 2021
+Intended status: Standards Track                         30 October 2021
+Expires: 3 May 2022
 
 
                          Greasing the QUIC Bit
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 30 October 2021.
+   This Internet-Draft will expire on 3 May 2022.
 
 Copyright Notice
 
@@ -215,11 +215,10 @@ Table of Contents
 
 6.1.  Normative References
 
-   [QUIC]     Iyengar, J. and M. Thomson, "QUIC: A UDP-Based Multiplexed
-              and Secure Transport", Work in Progress, Internet-Draft,
-              draft-ietf-quic-transport-34, 14 January 2021,
-              <https://datatracker.ietf.org/doc/html/draft-ietf-quic-
-              transport-34.txt>.
+   [QUIC]     Iyengar, J., Ed. and M. Thomson, Ed., "QUIC: A UDP-Based
+              Multiplexed and Secure Transport", RFC 9000,
+              DOI 10.17487/RFC9000, May 2021,
+              <https://datatracker.ietf.org/doc/html/rfc9000>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -240,20 +239,18 @@ Table of Contents
 
    [QUIC-INVARIANTS]
               Thomson, M., "Version-Independent Properties of QUIC",
-              Work in Progress, Internet-Draft, draft-ietf-quic-
-              invariants-13, 14 January 2021,
-              <https://datatracker.ietf.org/doc/html/draft-ietf-quic-
-              invariants-13.txt>.
+              RFC 8999, DOI 10.17487/RFC8999, May 2021,
+              <https://datatracker.ietf.org/doc/html/rfc8999>.
 
    [RFC8546]  Trammell, B. and M. Kuehlewind, "The Wire Image of a
               Network Protocol", RFC 8546, DOI 10.17487/RFC8546, April
               2019, <https://datatracker.ietf.org/doc/html/rfc8546>.
 
-   [USE-IT]   Thomson, M., "Long-term Viability of Protocol Extension
-              Mechanisms", Work in Progress, Internet-Draft, draft-iab-
-              use-it-or-lose-it-00, 7 August 2019,
+   [USE-IT]   Thomson, M. and T. Pauly, "Long-term Viability of Protocol
+              Extension Mechanisms", Work in Progress, Internet-Draft,
+              draft-iab-use-it-or-lose-it-04, 12 October 2021,
               <https://datatracker.ietf.org/doc/html/draft-iab-use-it-
-              or-lose-it-00.txt>.
+              or-lose-it-04>.
 
 Acknowledgments
 
